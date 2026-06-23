@@ -1,0 +1,5 @@
+Computer Name: bhantinger-mac.local
+Date of Test: 2026-06-23 11:17:15
+Bubble Sort Time: 2.191853 seconds
+Quick Sort Time: 0.006622 seconds
+
