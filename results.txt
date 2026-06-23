@@ -3,3 +3,8 @@ Date of Test: 2026-06-23 11:17:15
 Bubble Sort Time: 2.191853 seconds
 Quick Sort Time: 0.006622 seconds
 
+Computer Name: FBU-Legion-5
+Date of Test: 2026-06-23 12:14:27
+Bubble Sort Time: 5.695161 seconds
+Quick Sort Time: 0.015485 seconds
+
